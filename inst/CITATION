@@ -1,0 +1,14 @@
+citHeader(paste("To cite the R-package 'BayesRep' in publications,",
+                "please use:"))
+
+bibentry(bibtype = "Misc",
+         title = "The sceptical Bayes factor for the assessment of replication success",
+         author = c(person(given = "Samuel", family = "Pawel", role = "aut"),
+                    person(given = "Leonhard", family = "Held", role = "aut")),
+         doi = "10.1111/rssb.12491",
+         journal = "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+         volume = "84",
+         number = "3",
+         pages = "879-911",
+         year = "2022"
+         )
