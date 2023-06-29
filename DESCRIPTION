@@ -1,6 +1,6 @@
 Package: BayesRep
-Version: 0.42
-Date: 2023-06-26
+Version: 0.42.2
+Date: 2023-06-28
 Authors@R: 
     person(given = "Samuel",
            family = "Pawel",
@@ -19,6 +19,6 @@ NeedsCompilation: no
 RoxygenNote: 7.2.3
 URL: https://github.com/SamCH93/BayesRep
 BugReports: https://github.com/SamCH93/BayesRep/issues
-Packaged: 2023-06-26 17:37:07 UTC; sam
+Packaged: 2023-06-28 08:59:36 UTC; sam
 Repository: CRAN
-Date/Publication: 2023-06-27 17:40:04 UTC
+Date/Publication: 2023-06-29 15:50:16 UTC
